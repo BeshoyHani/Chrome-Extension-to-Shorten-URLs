@@ -1,0 +1,16 @@
+{
+    "name": "Short Me",
+    "version": "1.0.0",
+    "description": "Shorten URLs",
+    "manifest_version": 3,
+    "author": "Beshoy Hani",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Short.Me"
+    },
+    "icons": {
+       "16": "./images/logo.png",
+       "48": "./images/logo.png",
+       "128": "./images/logo.png"
+     }
+}
