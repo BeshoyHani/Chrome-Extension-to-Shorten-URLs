@@ -9,5 +9,5 @@ The extension uses [ShortMe API](https://github.com/BeshoyHani/Short.Me-API) to 
 
 ## Preview
 <img src="./images/screenshots/1.png">
-
+<img src="./images/screenshots/3.png">
 <img src="./images/screenshots/2.png">
